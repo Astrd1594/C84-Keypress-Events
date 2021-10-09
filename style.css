@@ -1,0 +1,31 @@
+h1{
+    width: 25%;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#myCanvas{
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: springgreen;
+    cursor: pointer;
+    border-style: ridge;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    font-size: 35px;
+}
+#note{
+    font-size: 17px;
+}
+b{
+    color: rgb(180, 63, 63);
+}
+#hr{
+    color: rgb(230, 227, 227)
+}
+#div{
+    font-family: Arial, Helvetica, sans-serif;
+}
